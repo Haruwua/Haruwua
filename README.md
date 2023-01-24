@@ -1,7 +1,7 @@
-<h1 align="center">Hello World\nIm Haruwua</h1>
+<h1 align="center">Hello World<br>Im Haruwua</h1>
 <h3 align="center">A amateur Programmer from Autria</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Haruwua" alt="Haruwua" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haruwua" alt="haruwua" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/pure_haruwua" target="blank"><img src="https://img.shields.io/twitter/follow/pure_haruwua?logo=twitter&style=for-the-badge" alt="pure_haruwua" /></a> </p>
 
