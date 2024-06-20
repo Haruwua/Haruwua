@@ -1,4 +1,4 @@
-<h1 algin="left">Hello, my name is:</h1>
+
 <h1 align="center">- Haruwua -</h1>
 <h3 align="center">Amateur Programming since 2020</h3>
 
