@@ -2,7 +2,7 @@
 <h1 align="center">- Haruwua -</h1>
 <h3 align="center">Amateur Programming since 2020</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haruwua&theme=chalk&no-bg=true&no-frame=true&row=1&column=6" alt="haruwua" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=haruwua&theme=chalk&no-bg=true&no-frame=true&row=1&column=6" alt="haruwua"></p>
 
 <hr>
 
