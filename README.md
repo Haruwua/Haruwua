@@ -2,9 +2,6 @@
 <h1 align="center">- Haruwua -</h1>
 
 
-<hr>
-
-
 - 🤝 I’m looking for help with **mental health**
 
 - 👨‍💻 All of my projects are available at **<a href="https://haruwua.eu/">my website</a>**
