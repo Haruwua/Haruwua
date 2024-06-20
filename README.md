@@ -5,21 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/pure_haruwua" target="blank"><img src="https://img.shields.io/twitter/follow/pure_haruwua?logo=twitter&style=for-the-badge" alt="pure_haruwua" /></a> </p>
 
-- 🔭 I’m currently working on **Weebgaming.net**
+- ✌️ Hello, my name is **Haru**
 
-- 🌱 I’m currently learning **C#**
+- 🤝 I’m looking for help with **mental health**
 
-- 🤝 I’m looking for help with **My life**
+- 👨‍💻 All of my projects are available at **<a href="https://haruwua.eu/">my website</a>**
 
-- 👨‍💻 All of my projects are available at [Comming Soon](No)
+- 📫 How to reach me **<a href="https://haruwua.eu/">Discord</a>**
 
-- 📫 How to reach me **Discord (soon)**
-
-- ⚡ Fun fact **I'm alive**
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haruwua&show_icons=true&locale=en&layout=compact" alt="haruwua" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haruwua&show_icons=true&locale=en" alt="haruwua" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haruwua&" alt="haruwua" /></p>
+- ⚡ Fun fact **I'm (still) alive**
  
