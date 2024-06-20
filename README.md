@@ -1,3 +1,4 @@
+<p algin="left">Hello, my name is:</p>
 <h1 align="center">- Haruwua -</h1>
 <h3 align="center">Amateur Programming since 2020</h3>
 
@@ -5,7 +6,6 @@
 
 <hr>
 
-- ✌️ Hello, my name is **Haru**
 
 - 🤝 I’m looking for help with **mental health**
 
